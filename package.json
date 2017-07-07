@@ -1,22 +1,15 @@
 {
-  "name": "compute-orders",
-  "version": "0.1.0",
+  "name": "@roderickmonk/compute-orders",
+  "version": "0.1.4",
   "description": "",
   "gypfile": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/roderickmonk/compute-orders.git"
-  },
   "keywords": [],
   "author": "Rod Monk <roderickmonk@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/roderickmonk/compute-orders/issues"
-  },
   "homepage": "https://github.com/roderickmonk/compute-orders#readme",
   "dependencies": {
     "@types/node": "^8.0.8"
